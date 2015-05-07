@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidGPSTrackingActivity!</string>
+    <string name="app_name">¿Dónde estoy?</string>
+    <string name="lblLatitud">Latitud</string>
+    <string name="lblLongitud">Longitud</string>
+    <string name="lblUbicacion">&lt;--- ¿Dónde estoy?</string><string name="valorLongitud">0</string><string name="valorLatitud">0</string>
+    
+    
+
+</resources>
